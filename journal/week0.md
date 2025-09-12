@@ -5,4 +5,6 @@
 - Used rm to remove a file
 - Used cat to see file's contents
 - Used restore to restore a not commited file
-##Day 4: Practice file management: mv, cp, rm
+## Day 4: Practice file management: 
+- Used mv, cp, rm
+- Learnt how to modify a document after push
